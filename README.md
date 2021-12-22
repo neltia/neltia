@@ -48,4 +48,4 @@
  
 ## BOJ (Baekjoon Online Judge) Solved
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dsz08082)](https://solved.ac/dsz08082)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsz08082)](https://solved.ac/dsz08082)
