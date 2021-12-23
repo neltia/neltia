@@ -43,9 +43,9 @@
 
 ## MY Github Status
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neltia"
-  <img src="https://github-readme-stats.vercel.app/api?username=neltia&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neltia&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=neltia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neltia&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neltia&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
 </div>
  
 ## BOJ (Baekjoon Online Judge) Solved
