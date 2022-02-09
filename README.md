@@ -2,7 +2,6 @@
 <a href="https://blog.naver.com/dsz08082" target="_blank"><img src="https://img.shields.io/badge/BLOG-2?style=appveyor&logo=naver&logoColor=white"/></a>
 
 ## Profile
-### Hi there 👋, my name is Hyunseo Jung
 <p align="center"><a href="https://in.naver.com/neltia" target="_blank"><img src="https://postfiles.pstatic.net/MjAyMTA3MjhfMTMy/MDAxNjI3NDUyNjg0NTEx.0Gq4IiEtm95rLeNpzfjSBA6j5Ad3Kl6qhx_wpzqHcowg.rXVmHqwywEv8_WusjKlCqnaoBaeRWTQRJ0FHfWPHhREg.PNG.dsz08082/namecard.png?type=w773" width="500px"></a></p>
 <p><strong>보안도 아는</strong> 웹 백엔드 개발자가 되기 위해 노력하고 있습니다. 틈나는 대로 다양한 분야에 도전하면서 좋아하는 프로그래밍을 하고 결과물을 블로그에 공유하는 과정을 통해 새로운 가치를 만들고자 노력합니다.
 <br>I am trying to become a web backend developer who knows security. I try to create new values through the process of challenging various fields whenever I have free time, doing my favorite programming, and sharing the results on my blog.
