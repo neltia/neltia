@@ -30,8 +30,6 @@
 <p>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 <br>
 
@@ -41,11 +39,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=neltia&show_icons=true" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neltia&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" width="49%"/>
   </p>
-</div>
-
-## BOJ (Baekjoon Online Judge) Solved
-<div align="center">
-  <a href="https://solved.ac/dsz08082">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsz08082">
-  </a>
 </div>
