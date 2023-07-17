@@ -13,7 +13,7 @@
 ● Back-End
 <p>
   <img src="https://img.shields.io/badge/Flask-303030?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-303030?style=flat-square&logo=Django&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Django-303030?style=flat-square&logo=Django&logoColor=white"/>  
 </p>
 ● DB
 <p>
@@ -24,7 +24,7 @@
 ● Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-049c8c?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3F?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF7012?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 ● Cowork
 <p>
