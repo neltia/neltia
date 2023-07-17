@@ -32,11 +32,3 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 <br>
-
-## MY Github Status
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=neltia&show_icons=true" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neltia&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" width="49%"/>
-  </p>
-</div>
