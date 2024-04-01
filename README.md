@@ -9,17 +9,19 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell Script-181717?style=flat-square&logo=GNU Bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <p>
 ● Back-End
 <p>
   <img src="https://img.shields.io/badge/Flask-303030?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-303030?style=flat-square&logo=Django&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
 </p>
 ● DB
 <p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariaDB&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
 ● Cloud
 <p>
