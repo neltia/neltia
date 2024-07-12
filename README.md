@@ -14,8 +14,8 @@
 ● Back-End
 <p>
   <img src="https://img.shields.io/badge/Flask-303030?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-303030?style=flat-square&logo=Django&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>  
 </p>
 ● DB
 <p>
@@ -25,13 +25,13 @@
 </p>
 ● Cloud
 <p>
-  <img src="https://img.shields.io/badge/Docker-049c8c?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF7012?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 ● Cowork
 <p>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 <br>
