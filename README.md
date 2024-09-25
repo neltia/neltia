@@ -34,7 +34,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
-<br>
 
 ### Repo Analysis
 <a href="https://github.com/neltia"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neltia&layout=compact&theme=nord&hide_border=true" /></a> 
+
+<br>
