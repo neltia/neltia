@@ -23,10 +23,9 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariaDB&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-square&logo=redis&logoColor=white"/>
 </p>
-● Cloud
+● Cl/CD
 <p>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF7012?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 ● Cowork
 <p>
